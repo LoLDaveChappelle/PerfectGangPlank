@@ -1,0 +1,11 @@
+﻿  PerfectGangplank.cpp
+c:\users\everett\documents\visual studio 2015\projects\perfectgangplank\perfectgangplank\Color.h(20): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+c:\users\everett\documents\visual studio 2015\projects\perfectgangplank\perfectgangplank\Color.h(25): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+     Creating library C:\Users\Everett\Documents\Visual Studio 2015\Projects\PerfectGangplank\Release\PerfectGangplank.lib and object C:\Users\Everett\Documents\Visual Studio 2015\Projects\PerfectGangplank\Release\PerfectGangplank.exp
+  Generating code
+  5 of 97 functions ( 5.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  PerfectGangplank.vcxproj -> C:\Users\Everett\Documents\Visual Studio 2015\Projects\PerfectGangplank\Release\PerfectGangplank.dll
+  PerfectGangplank.vcxproj -> C:\Users\Everett\Documents\Visual Studio 2015\Projects\PerfectGangplank\Release\PerfectGangplank.pdb (Full PDB)
